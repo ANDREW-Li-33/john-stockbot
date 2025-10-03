@@ -3,7 +3,7 @@
 
 ## About
 
-John Stockbot is an autonomous robot designed to catch basketballs before they hit the ground and pass them back to players during practice sessions. Named after NBA legend John Stockton (the all-time assists leader), this robot aims to be the ultimate training partner for basketball players.
+John Stockbot is an autonomous robot designed to catch basketballs before they hit the ground and pass them back to players during practice sessions. Named after NBA legend John Stockton (the all-time assists leader), this robot aims to be the ultimate robotic training partner for basketball players.
 
 The robot uses computer vision to track basketball trajectories in real-time, positions itself to intercept shots, and uses a dual-flywheel system to return passes to anywhere on the court. The system is built on a distributed architecture with a Jetson Orin Nano handling high-level intelligence and a Teensy 4.1 managing motor control.
 
