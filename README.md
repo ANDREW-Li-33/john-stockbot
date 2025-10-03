@@ -13,6 +13,5 @@ The robot uses computer vision to track basketball trajectories in real-time, po
 |----------|-------------|------|
 | **Primary Objectives** | Project goals, success metrics, and development principles | [Google Doc](https://docs.google.com/document/d/1Vo0fm0xn1nyjWS2_vyuDy4Y2yRpmGPdnU__JquevN0A/edit?tab=t.0) |
 | **System Architecture** | Technical design, ROS2 nodes, and communication protocols | [Google Doc](https://docs.google.com/document/d/1LGaEFNWjZb3376pkYbGlLpHBF5ra2i3nYetyKKqaXto/edit?usp=sharing) |
-| **General Timeline** | 8-week development roadmap and phases | [Google Doc](https://docs.google.com/document/d/1ajr8lFJE9e5p4RsDfiWhvAvUYR6jIlyunh-4V3jgzBY/edit?usp=sharing) |
-| **Detailed Timeline** | Day-by-day task breakdown with deliverables | [Google Doc](https://docs.google.com/document/d/1P7K0H3W3L4rxEb4cRmccZYyoFfffaN_8wPxCvMr2Sqc/edit?usp=sharing) |
+| **Development Timeline** | 8-week development roadmap and phases | [Google Doc](https://docs.google.com/document/d/1ajr8lFJE9e5p4RsDfiWhvAvUYR6jIlyunh-4V3jgzBY/edit?usp=sharing) |
 | **Parts List** | Complete bill of materials with costs and vendors | [Google Doc](https://docs.google.com/document/d/1YOarMHOIX9Ntcbo915CyfLngcIprZ0BvidMgzt3DbME/edit?usp=sharing) |
