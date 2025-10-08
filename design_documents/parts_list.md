@@ -150,7 +150,7 @@
    </td>
    <td><strong>All</strong>
    </td>
-   <td><strong>$436.94</strong>
+   <td><strong>$455.92</strong>
    </td>
    <td>
    </td>
@@ -186,11 +186,11 @@
    </td>
    <td>Electronics
    </td>
-   <td><a href="https://www.amazon.com/FLIPSKY-Electric-Controller-Skateboard-FSESC6-7/dp/B09MJZ8JRW/ref=pd_day0fbt_hardlines_d_sccl_1/146-3257968-8514663?pd_rd_w=YFJ9x&content-id=amzn1.sym.06aea998-aa9c-454e-b467-b476407c7977&pf_rd_p=06aea998-aa9c-454e-b467-b476407c7977&pf_rd_r=T1ATW3HQBBX6FVZ7DBTC&pd_rd_wg=TkkIG&pd_rd_r=785686e6-9ea1-49b2-9166-6f2505c2af96&pd_rd_i=B09MJZ8JRW&psc=1">$152</a>
+   <td><a href="https://www.amazon.com/FLIPSKY-Electric-Controller-Skateboard-FSESC6-7/dp/B09MJZ8JRW">$152</a>
    </td>
    <td>For flywheel motors
    </td>
-   <td>✅/ ✅
+   <td>✅ / ✅
    </td>
    <td>Amazon
    </td>
@@ -200,13 +200,13 @@
    </td>
    <td>Motion
    </td>
-   <td><a href="https://www.aliexpress.us/item/3256808965567922.html?spm=a2g0o.detail.0.0.1867DpWvDpWvp5&mp=1&pdp_npi=5%40dis%21USD%21USD%2084.51%21USD%2050.71%21%21USD%2050.71%21%21%21%402101c59117565753970613812eed3c%2112000048109401745%21ct%21US%21-1%21%212%210&_gl=1*1i9ltb9*_gcl_aw*R0NMLjE3NTY1NzM2MTUuQ2owS0NRand3c3JGQmhENkFSSXNBUG5VRkQzajA4MGc2SlZFZS1vQ1B1eXRCQ19jdVV3VkIzdEtQQjZTRWF2Q0RnSE9XSjgwNjg0cjVMSWFBbHZsRUFMd193Y0I.*_gcl_dc*R0NMLjE3NTY1NzIyMDguQ2owS0NRand3c3JGQmhENkFSSXNBUG5VRkQxejBxZFhFMmFSRE9WTGZEeUYxNklHZk51NDBkQS1BTEtaaUxlakFUVWc3Y2RDSlBpWG81b2FBZ0hCRUFMd193Y0I.*_gcl_au*MTY5NDkwNzY2Ny4xNzU1NTY1OTMx*_ga*NzQ2MDE4MjM1LjE3NTY1NzM2MTU.*_ga_VED1YSGNC7*czE3NTY1NzM2MTQkbzEkZzEkdDE3NTY1NzUzOTYkajI0JGwwJGgw&gatewayAdapt=glo2usa">$202.84</a>
+   <td><a href="https://www.aliexpress.us/item/3256808965567922.html">$202.84</a>
    </td>
    <td>To drive the flywheel
    </td>
-   <td>✅/ ✅
+   <td>✅ / ✅
    </td>
-   <td>Amazon
+   <td>Aliexpress
    </td>
   </tr>
   <tr>
@@ -214,11 +214,11 @@
    </td>
    <td>Motion
    </td>
-   <td><a href="https://www.aliexpress.us/item/3256802735023252.html?spm=a2g0o.cart.0.0.2f8e38daqCFqJj&mp=1&pdp_npi=5%40dis%21USD%21USD%2051.07%21USD%2040.86%21%21USD%2040.86%21%21%21%402151e6dc17565753644493248eef53%2112000022809170240%21ct%21US%21-1%21%212%210&_gl=1*1mugqji*_gcl_aw*R0NMLjE3NTY1NzM2MTUuQ2owS0NRand3c3JGQmhENkFSSXNBUG5VRkQzajA4MGc2SlZFZS1vQ1B1eXRCQ19jdVV3VkIzdEtQQjZTRWF2Q0RnSE9XSjgwNjg0cjVMSWFBbHZsRUFMd193Y0I.*_gcl_dc*R0NMLjE3NTY1NzIyMDguQ2owS0NRand3c3JGQmhENkFSSXNBUG5VRkQxejBxZFhFMmFSRE9WTGZEeUYxNklHZk51NDBkQS1BTEtaaUxlakFUVWc3Y2RDSlBpWG81b2FBZ0hCRUFMd193Y0I.*_gcl_au*MTY5NDkwNzY2Ny4xNzU1NTY1OTMx*_ga*NzQ2MDE4MjM1LjE3NTY1NzM2MTU.*_ga_VED1YSGNC7*czE3NTY1NzM2MTQkbzEkZzEkdDE3NTY1NzUzNjQkajU2JGwwJGgw&gatewayAdapt=glo2usa">$81.72</a>
+   <td><a href="https://www.aliexpress.us/item/3256802735023252.html">$81.72</a>
    </td>
    <td>Belt grinder contact wheels for the flywheel
    </td>
-   <td>✅/ ✅
+   <td>✅ / ✅
    </td>
    <td>Aliexpress
    </td>
@@ -228,7 +228,7 @@
    </td>
    <td>Motion
    </td>
-   <td><a href="https://www.aliexpress.us/item/3256807191398660.html?spm=a2g0o.order_detail.order_detail_item.5.6582f19ch50VIQ&gatewayAdapt=glo2usa">$8.67</a>
+   <td><a href="https://www.aliexpress.us/item/3256807191398660.html">$8.67</a>
    </td>
    <td>Timing pulley for jackshaft
    </td>
@@ -242,11 +242,11 @@
    </td>
    <td>Motion
    </td>
-   <td><a href="https://www.aliexpress.us/item/3256807191398660.html?spm=a2g0o.order_detail.order_detail_item.5.6582f19ch50VIQ&gatewayAdapt=glo2usa">$9.12</a>
+   <td><a href="https://www.aliexpress.us/item/3256807191398660.html">$9.12</a>
    </td>
    <td>Timing pulley for motor shaft
    </td>
-   <td>✅/ ✅
+   <td>✅ / ✅
    </td>
    <td>Aliexpress
    </td>
@@ -256,7 +256,7 @@
    </td>
    <td>Motion
    </td>
-   <td><a href="https://www.aliexpress.us/item/3256808065188881.html?spm=a2g0o.order_list.order_list_main.4.21ef1802wDc5FO&gatewayAdapt=glo2usa">$13.24</a>
+   <td><a href="https://www.aliexpress.us/item/3256808065188881.html">$13.24</a>
    </td>
    <td>Timing belt
    </td>
@@ -270,7 +270,7 @@
    </td>
    <td>Structural
    </td>
-   <td><a href="https://www.amazon.com/dp/B0F3D8BG1X?smid=A386KSEWCUN8Y5&ref_=chk_typ_imgToDp&th=1">$25.98</a>
+   <td><a href="https://www.amazon.com/dp/B0F3D8BG1X">$25.98</a>
    </td>
    <td>Flush mounted bearings
    </td>
@@ -302,9 +302,9 @@
    </td>
    <td>
    </td>
-   <td>
+   <td>❌ / ❌
    </td>
-   <td>
+   <td>McMaster Carr
    </td>
   </tr>
   <tr>
@@ -319,6 +319,42 @@
    <td>
    </td>
    <td>
+   </td>
+  </tr>
+</table>
+
+
+
+## Staging
+
+
+<table>
+  <tr>
+   <td><strong>Quantity x Part</strong>
+   </td>
+   <td><strong>Category</strong>
+   </td>
+   <td><strong>Cost</strong>
+   </td>
+   <td><strong>Notes</strong>
+   </td>
+   <td><strong>Ord/Recv?</strong>
+   </td>
+   <td><strong>Vendor</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>2x IR Break Beam Sensor
+   </td>
+   <td>Electronics
+   </td>
+   <td><a href="https://www.adafruit.com/product/2168?srsltid=AfmBOoobAjaUanAoR-IGaYqmC2RcY8Lh0k4uOqCRmNNsachYmS5xqmzi">$11.9</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Adafruit
    </td>
   </tr>
 </table>
@@ -348,11 +384,11 @@
    </td>
    <td>Motion
    </td>
-   <td><a href="https://www.vexrobotics.com/omni-wheels.html?srsltid=AfmBOoqJTPTl3u6XRGaV-DuOlCQGosI-hweimPl4zFRMNVMioTJmjuGk">$60</a>
+   <td><a href="https://www.vexrobotics.com/omni-wheels.html">$60</a>
    </td>
    <td>v1 wheels
    </td>
-   <td>✅/ ✅
+   <td>✅ / ✅
    </td>
    <td>VEX
    </td>
@@ -398,11 +434,11 @@
    </td>
    <td>Electronics
    </td>
-   <td><a href="https://www.amazon.com/NVIDIA-Jetson-Orin-Nano-Developer/dp/B0BZJTQ5YP/ref=sr_1_3?crid=2ZPEBPJH7R6AW&dib=eyJ2IjoiMSJ9.MRN1oKLUM58HHNbiwC8z6YfBSwYeCrCk802funuW0C9mmxh0pBNTBZxdO7d61FVMeiWMYRgomMIcbQ_sK6Wr0iB4flIoUO4GBbPiZy_woZUtyqJItn9d7ts3TFBZZiTzA8ORazlC98-Fqr6HyBuQjnV7O62tgNUSsyuN8XNQb7fQpbt7F32w6eEFkVXXaNMvNSQ2M56UhgTb9f-G4RYiiPLlZUUfQkXpaYX0AXhEP9o.FI5mZBNwxWBY1s-6UnLQu59860C6ZmkvOnQiECSJ9Yk&dib_tag=se&keywords=jetson+nano&qid=1757106093&sprefix=jetson+nan%2Caps%2C178&sr=8-3">$249</a>
+   <td><a href="https://www.amazon.com/NVIDIA-Jetson-Orin-Nano-Developer/dp/B0BZJTQ5YP">$249</a>
    </td>
    <td>Orin Nano, not just Nano
    </td>
-   <td>✅/ ✅
+   <td>✅ / ✅
    </td>
    <td>Amazon
    </td>
@@ -412,7 +448,7 @@
    </td>
    <td>Electronics
    </td>
-   <td><a href="https://www.amazon.com/dp/B088JY7P2H?ref=ppx_yo2ov_dt_b_fed_asin_title">$35.00</a>
+   <td><a href="https://www.amazon.com/dp/B088JY7P2H">$35.00</a>
    </td>
    <td>
    </td>
@@ -426,7 +462,7 @@
    </td>
    <td>Electronics
    </td>
-   <td><a href="https://www.amazon.com/dp/B078RY7BPL?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1">$15.99</a>
+   <td><a href="https://www.amazon.com/dp/B078RY7BPL">$15.99</a>
    </td>
    <td>Plugs into outlet
    </td>
@@ -476,7 +512,7 @@
    </td>
    <td>Misc
    </td>
-   <td><a href="https://www.amazon.com/dp/B091MQ4P7D?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1">$26.99</a>
+   <td><a href="https://www.amazon.com/dp/B091MQ4P7D">$26.99</a>
    </td>
    <td>
    </td>
@@ -490,7 +526,7 @@
    </td>
    <td>Misc
    </td>
-   <td><a href="https://www.amazon.com/dp/B01A425KQW?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1">$11.99</a>
+   <td><a href="https://www.amazon.com/dp/B01A425KQW">$11.99</a>
    </td>
    <td>
    </td>
@@ -500,13 +536,13 @@
    </td>
   </tr>
   <tr>
-   <td>1x displayport to hdmi cable, unidirectional
+   <td>1x DisplayPort to HDMI cable, unidirectional
    </td>
    <td>Misc
    </td>
-   <td>$8.54
+   <td><a href="https://www.amazon.com">$8.54</a>
    </td>
-   <td>for the jetson orin nano
+   <td>For the Jetson Orin Nano
    </td>
    <td>✅ / ❌
    </td>
@@ -518,7 +554,7 @@
    </td>
    <td><strong>All</strong>
    </td>
-   <td><strong>$38.98</strong>
+   <td><strong>$47.52</strong>
    </td>
    <td>
    </td>
@@ -533,4 +569,4 @@
 
 ---
 
-**Project Total: $1,388.65**
+**Project Total: $1,407.63**
