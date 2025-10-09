@@ -544,7 +544,7 @@
    </td>
    <td>For the Jetson Orin Nano
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Amazon
    </td>
