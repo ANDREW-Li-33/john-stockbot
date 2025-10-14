@@ -280,31 +280,157 @@
    </td>
   </tr>
   <tr>
-   <td>1x Rotary shaft (25mm dia. 400mm lg.)
+   <td>2x Rotary shaft (25mm dia. 400mm lg.)
    </td>
    <td>Motion
    </td>
-   <td><a href="https://www.mcmaster.com/catalog/131/1369/1482K43">$23.67</a>
+   <td><a href="https://www.mcmaster.com/catalog/131/1369/1482K43">$47.34</a>
    </td>
    <td>Jackshaft - To be keyed later using manual mill
    </td>
-   <td>❌ / ❌
+   <td>✅ / ❌
    </td>
    <td>McMaster Carr
    </td>
   </tr>
   <tr>
-   <td>4x Shaft collar (25mm bore)
+   <td>4x 10pcs M5, 25mm screws
    </td>
-   <td>Motion
+   <td>Structural
    </td>
-   <td><a href="https://www.mcmaster.com/catalog/131/1470/57485K78">$26.96</a>
+   <td><a href="https://www.aliexpress.us/item/3256805692722422.html?spm=a2g0o.order_detail.order_detail_item.2.630bf19cYEhMK7&gatewayAdapt=glo2usa">$8.68</a>
    </td>
    <td>
    </td>
-   <td>❌ / ❌
+   <td>✅ / ❌
    </td>
-   <td>McMaster Carr
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>1x 10pcs M6, 40mm screws
+   </td>
+   <td>Structural
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256805692722422.html?spm=a2g0o.order_detail.order_detail_item.4.630bf19cYEhMK7&gatewayAdapt=glo2usa">$3.22</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>4x 10pcs M6, 35mm screws
+   </td>
+   <td>Structural
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256805692722422.html?spm=a2g0o.order_detail.order_detail_item.7.630bf19cYEhMK7&gatewayAdapt=glo2usa">$12.08</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>1x 10pcs M4, 16mm screws
+   </td>
+   <td>Structural
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256805692722422.html?spm=a2g0o.order_detail.order_detail_item.8.630bf19cYEhMK7&gatewayAdapt=glo2usa">$1.48</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>2x 10pcs M4, 80mm screws
+   </td>
+   <td>Structural
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256805692722422.html?spm=a2g0o.order_detail.order_detail_item.8.630bf19cYEhMK7&gatewayAdapt=glo2usa">$6.04</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>1x black carbon steel, 100pcs M6 locknuts
+   </td>
+   <td>Structural
+   </td>
+   <td><a href="https://www.aliexpress.us/item/2251832612458814.html?spm=a2g0o.order_detail.order_detail_item.2.7030f19ccYzfLV&gatewayAdapt=glo2usa">$7.09</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>1x black carbon steel, 25pcs M4 locknuts
+   </td>
+   <td>Structural
+   </td>
+   <td><a href="https://www.aliexpress.us/item/2251832612458814.html?spm=a2g0o.order_detail.order_detail_item.2.7030f19ccYzfLV&gatewayAdapt=glo2usa">$1.96</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>1x M5 5PCS, (L)75mm female standoff
+   </td>
+   <td>Structural
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256807000745548.html?spm=a2g0o.order_list.order_list_main.9.5e2918023HbI9o&gatewayAdapt=glo2usa">$20.4</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>4x 25mm shaft dia. shaft collar
+   </td>
+   <td>Fasteners
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256808031076745.html?spm=a2g0o.order_detail.order_detail_item.2.6776f19cY6LTJB&gatewayAdapt=glo2usa">$9.2</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>4x 20mm shaft dia. shaft collar
+   </td>
+   <td>Fasteners
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256808031076745.html?spm=a2g0o.order_detail.order_detail_item.2.6776f19cY6LTJB&gatewayAdapt=glo2usa">$7.6</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>
    </td>
   </tr>
   <tr>
@@ -352,7 +478,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Adafruit
    </td>
