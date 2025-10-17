@@ -288,7 +288,7 @@
    </td>
    <td>Jackshaft - To be keyed later using manual mill
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>McMaster Carr
    </td>
