@@ -302,7 +302,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Aliexpress
    </td>
@@ -316,7 +316,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Aliexpress
    </td>
@@ -330,7 +330,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Aliexpress
    </td>
@@ -344,7 +344,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Aliexpress
    </td>
@@ -358,7 +358,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Aliexpress
    </td>
@@ -372,7 +372,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Aliexpress
    </td>
@@ -386,7 +386,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Aliexpress
    </td>
@@ -400,7 +400,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Aliexpress
    </td>
@@ -414,7 +414,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Aliexpress
    </td>
@@ -428,7 +428,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>
    </td>
@@ -438,7 +438,7 @@
    </td>
    <td><strong>All</strong>
    </td>
-   <td><strong>$544.20</strong>
+   <td><strong>$618.66</strong>
    </td>
    <td>
    </td>
@@ -695,4 +695,4 @@
 
 ---
 
-**Project Total: $1,407.63**
+**Project Total: $1,493.99**
