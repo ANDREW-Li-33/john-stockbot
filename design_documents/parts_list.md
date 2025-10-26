@@ -520,6 +520,48 @@
    </td>
   </tr>
   <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
    <td><strong>Total cost</strong>
    </td>
    <td><strong>All</strong>
@@ -676,11 +718,25 @@
    </td>
   </tr>
   <tr>
+   <td>1x Fusion 360 Advanced HTD Timing Pulley Generator plugin
+   </td>
+   <td>Misc
+   </td>
+   <td><a href="https://apps.autodesk.com/FUSION/en/Detail/Index?id=5614470164717391487&appLang=en&os=Win64&isFromPaypal=true">$20.00</a>
+   </td>
+   <td>Speed up CAD development time for drivetrain and save costs (for example, a 72T HTD 5M pulley would have costed me over $50 each, but now I can just 3d print it using this plugin)
+   </td>
+   <td>N/A
+   </td>
+   <td>Fusion 360 / LayerFusion
+   </td>
+  </tr>
+  <tr>
    <td><strong>Total cost</strong>
    </td>
    <td><strong>All</strong>
    </td>
-   <td><strong>$47.52</strong>
+   <td><strong>$67.52</strong>
    </td>
    <td>
    </td>
@@ -695,4 +751,4 @@
 
 ---
 
-**Project Total: $1,493.99**
+**Project Total: $1,513.99**
