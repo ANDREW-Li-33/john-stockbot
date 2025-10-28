@@ -526,7 +526,7 @@
    </td>
    <td>
    </td>
-   <td>
+   <td>printed
    </td>
    <td>
    </td>
@@ -540,7 +540,7 @@
    </td>
    <td>
    </td>
-   <td>
+   <td>printed
    </td>
    <td>
    </td>
@@ -554,11 +554,67 @@
    </td>
    <td>
    </td>
+   <td>printed
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
    <td>
    </td>
    <td>
    </td>
    <td>
+   </td>
+   <td>printed
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>2x FLIPSKY Dual Mini FSESC6.7 Pro 140A base on VESC6.6 
+   </td>
+   <td>Electronics
+   </td>
+   <td><a href="https://flipsky.net/products/dual-mini-fsesc6-7-pro-140a?gad_source=1&gad_campaignid=20953211237&gbraid=0AAAAAC4W4LWAJlwbFbXfrmuetUGZxLcGD&gclid=Cj0KCQjwsPzHBhDCARIsALlWNG2OjBm5AyoYVOZ5aCUTgZWRxkPzo7eF3VRVbgrcEr16ux_zA5ivL34aAv8SEALw_wcB">$252</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>FLIPSKY
+   </td>
+  </tr>
+  <tr>
+   <td>4x 6354 BLDC motor 170KV 10MM D Shaft
+   </td>
+   <td>Motion
+   </td>
+   <td><a href="https://flipsky.net/products/6354-motor?variant=46506149019889">$255</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>FLIPSKY
+   </td>
+  </tr>
+  <tr>
+   <td>FLIPSKY shipping
+   </td>
+   <td>MISC
+   </td>
+   <td>$99
+   </td>
+   <td>expensive shipping
+   </td>
+   <td>
+   </td>
+   <td>FLIPSKY
    </td>
   </tr>
   <tr>
@@ -566,7 +622,7 @@
    </td>
    <td><strong>All</strong>
    </td>
-   <td><strong>$60</strong>
+   <td><strong>$606</strong>
    </td>
    <td>
    </td>
@@ -751,4 +807,4 @@
 
 ---
 
-**Project Total: $1,513.99**
+**Project Total: $2,059.99**
