@@ -430,7 +430,21 @@
    </td>
    <td>✅ / ✅
    </td>
-   <td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>2x 20mm keyed shaft, 300mm length
+   </td>
+   <td>Motion
+   </td>
+   <td><a href="https://www.mcmaster.com/catalog/131/1371/1439K611">$76.94</a>
+   </td>
+   <td>For flywheel jackshaft
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>McMaster Carr
    </td>
   </tr>
   <tr>
@@ -438,7 +452,7 @@
    </td>
    <td><strong>All</strong>
    </td>
-   <td><strong>$618.66</strong>
+   <td><strong>$695.6</strong>
    </td>
    <td>
    </td>
@@ -618,11 +632,151 @@
    </td>
   </tr>
   <tr>
+   <td>½” ID flanged bearings
+   </td>
+   <td>Motion
+   </td>
+   <td><a href="https://www.amazon.com/gp/product/B07H4MJF23/ref=ox_sc_act_image_1?smid=A3BDHA3CPU6FI5&psc=1">$34</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Amazon
+   </td>
+  </tr>
+  <tr>
+   <td>20x M4 screws, 50mm length
+   </td>
+   <td>Fasteners
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256808898544302.html?spm=a2g0o.order_detail.order_detail_item.6.7f69f19cj3Wckn&gatewayAdapt=glo2usa">$7.94</a>
+   </td>
+   <td>24x required for complete wheel hub, ordered 20, but can 
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>25x M4 nuts
+   </td>
+   <td>Fasteners
+   </td>
+   <td><a href="https://www.aliexpress.us/item/2251832612458814.html?spm=a2g0o.order_detail.order_detail_item.4.4b01f19cIFHoO1&gatewayAdapt=glo2usa">$1.75</a>
+   </td>
+   <td>24x required for complete wheel hub
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>4x 425mm HTD 5M belt, 15mm width 
+   </td>
+   <td>Motion
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256806351155751.html?spm=a2g0o.order_list.order_list_main.4.21ef18025coPmz&gatewayAdapt=glo2usa">$32.24</a>
+   </td>
+   <td>for motor to intermediate shaft
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>4x 595mm HTD 5M belt, 15mm width
+   </td>
+   <td>Motion
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256806351155751.html?spm=a2g0o.order_list.order_list_main.4.21ef18025coPmz&gatewayAdapt=glo2usa">$32.24</a>
+   </td>
+   <td>for intermediate to wheel shaft
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>10x Aluminum extrusions, 1000mm x 20mm x 20mm
+   </td>
+   <td>Structural
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256809654557846.html?spm=a2g0o.order_list.order_list_main.14.507f1802OtGudM&gatewayAdapt=glo2usa">$48.89</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>20x M5 screws, 20mm length
+   </td>
+   <td>Fasteners
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256808898544302.html?spm=a2g0o.order_detail.order_detail_item.4.7f69f19cj3Wckn&gatewayAdapt=glo2usa">$8.08</a>
+   </td>
+   <td>For mounting the extrusions
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>50x M6 screws, 35mm length
+   </td>
+   <td>Fasteners
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256808898544302.html?spm=a2g0o.order_detail.order_detail_item.2.7f69f19cj3Wckn&gatewayAdapt=glo2usa">$38.7</a>
+   </td>
+   <td>48x required for 3d printed brackets
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>50x M6 nuts
+   </td>
+   <td>Fasteners
+   </td>
+   <td><a href="https://www.aliexpress.us/item/2251832612458814.html?spm=a2g0o.order_detail.order_detail_item.2.4b01f19cIFHoO1&gatewayAdapt=glo2usa">$4.62</a>
+   </td>
+   <td>48x required for 3d printed brackets
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>Aliexpress
+   </td>
+  </tr>
+  <tr>
+   <td>8x Keyed Shaft, 1/2" diameter, 6" length
+   </td>
+   <td>Motion
+   </td>
+   <td><a href="https://www.mcmaster.com/catalog/131/1370/1497K8">$111.52</a>
+   </td>
+   <td>
+   </td>
+   <td>✅ / ❌
+   </td>
+   <td>McMaster Carr
+   </td>
+  </tr>
+  <tr>
    <td><strong>Total cost</strong>
    </td>
    <td><strong>All</strong>
    </td>
-   <td><strong>$606</strong>
+   <td><strong>$985.98</strong>
    </td>
    <td>
    </td>
@@ -807,4 +961,4 @@
 
 ---
 
-**Project Total: $2,059.99**
+**Project Total: $2,516.91**
