@@ -927,7 +927,7 @@
    </td>
    <td>2
    </td>
-   <td>❌
+   <td>✅
    </td>
    <td>❌
    </td>
@@ -993,11 +993,23 @@
    </td>
   </tr>
   <tr>
+   <td>plate connector motor side
+   </td>
+   <td>Drivetrain
+   </td>
+   <td>4
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
    <td>plate connector
    </td>
    <td>Drivetrain
    </td>
-   <td>8
+   <td>4
    </td>
    <td>❌
    </td>
