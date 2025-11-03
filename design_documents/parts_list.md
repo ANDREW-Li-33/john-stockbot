@@ -1,4 +1,4 @@
-# Parts List
+# Purchased Parts List
 
 
 ## Vision
@@ -17,34 +17,6 @@
    <td><strong>Ord/Recv?</strong>
    </td>
    <td><strong>Vendor</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1x camera attachment
-   </td>
-   <td>Structural
-   </td>
-   <td>$0
-   </td>
-   <td>Printed
-   </td>
-   <td>✅
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>1x tilt motor base
-   </td>
-   <td>Structural
-   </td>
-   <td>$0
-   </td>
-   <td>Printed
-   </td>
-   <td>✅
-   </td>
-   <td>N/A
    </td>
   </tr>
   <tr>
@@ -442,7 +414,7 @@
    </td>
    <td>For flywheel jackshaft
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>McMaster Carr
    </td>
@@ -534,62 +506,6 @@
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>printed
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>printed
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>printed
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>printed
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
    <td>2x FLIPSKY Dual Mini FSESC6.7 Pro 140A base on VESC6.6 
    </td>
    <td>Electronics
@@ -640,7 +556,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>Amazon
    </td>
@@ -766,7 +682,7 @@
    </td>
    <td>
    </td>
-   <td>✅ / ❌
+   <td>✅ / ✅
    </td>
    <td>McMaster Carr
    </td>
@@ -962,3 +878,191 @@
 ---
 
 **Project Total: $2,516.91**
+
+
+# **Printed parts**
+
+
+<table>
+  <tr>
+   <td>Part name
+   </td>
+   <td>Component
+   </td>
+   <td>Qty
+   </td>
+   <td>Started?
+   </td>
+   <td>Received?
+   </td>
+  </tr>
+  <tr>
+   <td>Camera attachment
+   </td>
+   <td>Vision
+   </td>
+   <td>1
+   </td>
+   <td>✅
+   </td>
+   <td>✅
+   </td>
+  </tr>
+  <tr>
+   <td>Tilt motor base
+   </td>
+   <td>Vision
+   </td>
+   <td>1
+   </td>
+   <td>✅
+   </td>
+   <td>✅
+   </td>
+  </tr>
+  <tr>
+   <td>Motor side inner bracket
+   </td>
+   <td>Flywheel
+   </td>
+   <td>2
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
+   <td>No motor side bracket
+   </td>
+   <td>Flywheel
+   </td>
+   <td>2
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
+   <td>Printed nut cover
+   </td>
+   <td>Flywheel
+   </td>
+   <td>4
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
+   <td>wheel attachment
+   </td>
+   <td>Flywheel
+   </td>
+   <td>4
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
+   <td>ball bearing mount
+   </td>
+   <td>Drivetrain
+   </td>
+   <td>16
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
+   <td>wheel hub
+   </td>
+   <td>Drivetrain
+   </td>
+   <td>8
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
+   <td>plate connector
+   </td>
+   <td>Drivetrain
+   </td>
+   <td>8
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
+   <td>right angle actual
+   </td>
+   <td>Drivetrain
+   </td>
+   <td>4
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
+   <td>wheel 90T pulley
+   </td>
+   <td>Drivetrain
+   </td>
+   <td>4
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
+   <td>intermediate 20T pulley
+   </td>
+   <td>Drivetrain
+   </td>
+   <td>4
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
+   <td>intermediate 72T pulley
+   </td>
+   <td>Drivetrain
+   </td>
+   <td>4
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+  <tr>
+   <td>motor 24T pulley
+   </td>
+   <td>Drivetrain
+   </td>
+   <td>4
+   </td>
+   <td>❌
+   </td>
+   <td>❌
+   </td>
+  </tr>
+</table>
+
